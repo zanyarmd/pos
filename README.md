@@ -1,0 +1,2 @@
+# pos
+test krdi pos
